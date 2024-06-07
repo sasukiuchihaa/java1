@@ -1,4 +1,4 @@
-# java1
+# java code 1
 factorization
 class shiva{
     public static  void main (String args[])
